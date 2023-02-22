@@ -1,0 +1,172 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Topics</title>
+        <link>localhost/posts/</link>
+        <description>Recent content in Posts on Topics</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 22 Feb 2023 19:54:15 +0300</lastBuildDate>
+        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Топик 8 - the Future of IT</title>
+            <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-8-the-future-of-it/</link>
+            <pubDate>Wed, 22 Feb 2023 19:54:15 +0300</pubDate>
+            
+            <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-8-the-future-of-it/</guid>
+            <description>Future of Information Technology In the upcoming years, the primary focus of IT will shift to providing strategic business value by delivering innovative products and services. However, traditionally siloed and process-driven IT departments are not well suited for the speed and adaptability needed to take advantage of emerging digital business opportunities.
+This means that IT and business strategies must be aligned to boost the responsiveness and agility that will be required to compete in the future.</description>
+            <content type="html"><![CDATA[<p>Future of Information Technology
+In the upcoming years, the primary focus of IT will shift to providing strategic business value by delivering innovative products and services. However, traditionally siloed and process-driven IT departments are not well suited for the speed and adaptability needed to take advantage of emerging digital business opportunities.</p>
+<p>This means that IT and business strategies must be aligned to boost the responsiveness and agility that will be required to compete in the future. This can be accomplished by embracing collaborative management techniques and increasing autonomy among IT staff. Here are 2 of the tech trends that are driving the fourth industrial revolution – trends that will surely alter how we do business and live our lives.</p>
+<p>Artificial Intelligence
+With machine learning poised to overtake operations and decision-making, AI pioneers are realising that legacy data models and infrastructure are designed to support humans…not machines. Therefore, this acts as a roadblock to machine learning success. In response, organisations are disrupting the data management value chain by deploying new technologies. For instance, lots of businesses are investing in advanced data capture, advanced analytics to give meaning to random data, and cloud-based data stores.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Топик 7 - Professions in IT</title>
+            <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-7-professions-in-it/</link>
+            <pubDate>Wed, 22 Feb 2023 19:54:01 +0300</pubDate>
+            
+            <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-7-professions-in-it/</guid>
+            <description>With the rapid development of technology has grown the need for a huge number of specialists in IT, specialists are divided into:
+Developers, who design, plan, develop programs, Web sites and games, and test them
+Systems administrators who install and maintain networks and databases
+Analysts who study network requirements and recommend the most appropriate type of network. System analysts decide which IT system will meet the requirements of a particular institution.</description>
+            <content type="html"><![CDATA[<p>With the rapid development of technology has grown the need for a huge number of specialists in IT, specialists are divided into:</p>
+<p>Developers, who design, plan, develop programs, Web sites and games, and test them</p>
+<p>Systems administrators who install and maintain networks and databases</p>
+<p>Analysts who study network requirements and recommend the most appropriate type of network. System analysts decide which IT system will meet the requirements of a particular institution.</p>
+<p>Security specialists specialize in developing software and hardware to protect information from malware: viruses, spyware, etc.</p>
+<p>Tech support, helpdesk technicians oversee troubleshooting, solving technical problems.
+Computer training instructors or trainers teach people how to use hardware and software.</p>
+<p>Every year there are new IT sphere&rsquo;s, the number of professions is growing every day, for this study to become an IT specialist, very promising</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Топик 6 - How to Protect a Computer From Crimes and Disasters</title>
+            <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-6-how-to-protect-a-computer-from-crimes-and-disasters/</link>
+            <pubDate>Wed, 22 Feb 2023 19:53:45 +0300</pubDate>
+            
+            <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-6-how-to-protect-a-computer-from-crimes-and-disasters/</guid>
+            <description>How to protect your computer from crimes and disasters.
+Main things to protect your computer Control Access to Hardware and Software: Lock physical locations and equipment. Install a physical security system. Monitor access 24 hours a day.
+Implement Network Controls Install firewalls to protect networks from external and internal attacks. Password-protect programs and data with passwords which cannot easily be cracked.
+Protect against Natural Disasters Install uninterruptible power supplies and surge protectors</description>
+            <content type="html"><![CDATA[<p>How to protect your computer from crimes and disasters.</p>
+<p>Main things to protect your computer
+Control Access to Hardware and Software:
+Lock physical locations and equipment.
+Install a physical security system.
+Monitor access 24 hours a day.</p>
+<p>Implement Network Controls
+Install firewalls to protect networks from external and internal attacks.
+Password-protect programs and data with passwords which cannot easily be cracked.</p>
+<p>Protect against Natural Disasters
+Install uninterruptible power supplies and surge protectors</p>
+<p>Backup Data and Programs
+Separate and Rotate Functions
+Protect against Viruses</p>
+<p>Near-line and offline storage (often called Hierarchical Storage Management) is the modern way of dealing with current storage needs. HSM is essentially the automatic movement of data between media, the media type used depending on when it was last accessed.
+The most common HSM setup is where there&rsquo;s online storage (the hard disk), near-line storage (some sort of fast media from where a file can be quickly retrieved), and offline storage (slower media that might take some time for files to be recovered, but it is cheaper for a long-term storage).
+The cheapest is undoubtedly tape (be it digital, analogue or digital linear), so this tends to be used for offline storage. However, tape has no guarantee of data integrity beyond one or two years, whereas optical systems, such CDs, WORMS and MO disks, have much better data integrity over a longer period of time. Depending on the precise application, archiving systems are usually based on the media type that has the best integrity.
+Tape is used for backup systems where large amounts of data need to be backed up on a regular basis. Tape is cheap, integrity is good over the short to medium term, and retrieval from a backup can be made acceptable with good tape storage practices.
+Near-line storage should be based on erasable optical disks. This is because access is random, so the access speed to find and retrieve a particular file needs to be fast, and data integrity 0 is also good.</p>
+<p>Archiving systems should probably be CD- or WORM-based, as again access speeds are good, media costs are reasonably cheap and, importantly, the integrity of the media over the medium to long term is good. One important thing to remember with archiving systems is the stored data&rsquo;s format. The data might be held perfectly for 10 or 15 140 ut when you need to get it back, it&rsquo;s essentiai that you maintain appropriate hardware and software to enable you to read it</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Топик 5 - Computer Viruses and Crimes</title>
+            <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-5-computer-viruses-and-crimes/</link>
+            <pubDate>Wed, 22 Feb 2023 19:53:13 +0300</pubDate>
+            
+            <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-5-computer-viruses-and-crimes/</guid>
+            <description>There are many benefits from an open system like the Internet, but one of the risks is that we are often exposed to hackers, who break into computer systems just for fun, to steal information, or to spread viruses .
+Security on the Web Security is crucial when you send confidential information online. Private networks can be attacked by intruders who attempt to obtain information such as Social Security numbers, bank асcounts or research and business reports.</description>
+            <content type="html"><![CDATA[<p>There are many benefits from an open system like the Internet, but one of the risks is that we are often exposed to hackers, who break into computer systems just for fun, to steal information, or to spread viruses .</p>
+<p>Security on the Web Security is crucial when you send confidential information online.  Private networks can be attacked by intruders who attempt to obtain information such as Social Security numbers, bank асcounts or research and business reports. To protеct crucial data, companies hire security consultants who analyse the risks and provide solutions. The most common methods of protection are passwords for aссess control, firewalls, and encryption and decryption systems. Similarly, a computer virus is a very small program гoutine that infeеcts a computer system and uses its resources to reproduce itself. It often does this by рacching the operating system to enable it to detect program files, such as COM or EXE files. It then copies itself into those files. This sometimes causes harm to the host computer system. When the user runs an infected program, it is loaded into memory carrying the virus. The virus uses a common programming technique to stay resident in memory. It can then use a reproduction routine to infect other programs.</p>
+<p>Worms are self-cоруing programs that have the capacity to move from one computer to another without human help, by exploiting securiry flaws in computer nerworks. Worms are self- contained and don&rsquo;t need to be attached to a document or program the way viruses do.</p>
+<p>Trojan horses are malicious programs disguised as innocent-looking files or cmbedded within legitimate sofrware. Once they are activated, they may affect the computer in a variery of ways: some are just annoying, others are more ominous, creating a backdoor to the computer which can be used to collect stored data.</p>
+<p>Spyware, software designed to collect information from computers for eriminal purposes, is anorher example of malicious sofrware. It usua freeware or shareware applications downloadable from the Internet.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Топик 4 - Web Design</title>
+            <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-4-web-design/</link>
+            <pubDate>Wed, 22 Feb 2023 19:52:59 +0300</pubDate>
+            
+            <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-4-web-design/</guid>
+            <description>Web design itself refers to the process of creating a web page’s appearance and to the choice of a right color scheme, page layout, fonts and more. Every single web page in a website has different content, but all the pages are using a similar graphic design. Often sites will use website templates, which contain all the basic elements of web design - the website&amp;rsquo;s CSS style, buttons, backgrounds, borders and various graphic elements like hover images, bullets and header banners.</description>
+            <content type="html"><![CDATA[<p>Web design itself refers to the process of creating a web page’s appearance and to the choice of a right color scheme, page layout, fonts and more. Every single web page in a website has different content, but all the pages are using a similar graphic design. Often sites will use website templates, which contain all the basic elements of web design - the website&rsquo;s CSS style, buttons, backgrounds, borders and various graphic elements like hover images, bullets and header banners. When the website template is applied to the website, all the pages assume its appearance, using the same styles, background and other graphical elements.</p>
+<p>But most of the pages in a website have their own design elements. This is needed because every page has to present a different content, and the basic website style is not fully applicable for all the web pages. For example, designing a contact form will sometimes require a custom layout and design elements with which to handle the form&rsquo;s fields, buttons, drop-down menus, etc. All these styles, layouts, images, etc. are often not applicable for the other website pages. So, the contact page uses the basic website template for the menus, backgrounds, header images, etc. but also has its own web page design, including the contact form’s design itself and all the other elements specific for that page.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Топик 3 - Search Engines</title>
+            <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-3-search-engines/</link>
+            <pubDate>Wed, 22 Feb 2023 19:51:19 +0300</pubDate>
+            
+            <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-3-search-engines/</guid>
+            <description>The History of Search Engines Search Engines have come a long way since their inception. It all started with Archie, the world’s first search engine made in late 1989 and after 30 years, it is Google ruling the world. Between these periods, approximately 30 search engines came but none could be as successful and popular as Google. Search Engine Journal shares this interesting timeline picture displaying the history on search engines.</description>
+            <content type="html"><![CDATA[<p>The History of Search Engines
+Search Engines have come a long way since their inception.
+It all started with Archie, the world’s first search engine made in late 1989 and after 30 years, it is Google ruling the world. Between these periods, approximately 30 search engines came but none could be as successful and popular as Google. Search Engine Journal shares this interesting timeline picture displaying the history on search engines. Let us look at some of the major milestone from this time line history.</p>
+<p>The very first version of Internet came into existence in 1969 when online APRAnet connected American universities.</p>
+<p>In 1989 “The Archie Search Engine” – Considered as grandfather of all search engines as it is Internet’s first indexer. Before this there was no way people could discover useful websites or search for some content. Information used to flow in form of websites names in email messages or through word-to-mouth publicity.</p>
+<p>In 1994 Stanford University students Jerry Wang and David Filo created YAHOO! . YAHOO was abbreviated for YET ANOTHER OFFICIAL ORACLE HIERARCHY. It was originally a directory of interesting sites and bookmark list.</p>
+<p>In 1996 Sergey Brin and Larry Page, two Stanford University students, created a new search engine - BACKRUB, where they ranked websites based on back links it received.</p>
+<p>In 1997 BackRub got renamed to GOOGLE. They got the name from the word Googol, which is a mathematical term for the number represented by numeral 1 anal followed by 100 zeros.</p>
+<p>In 2000 – Google Adwords launched taking inspiration from GoTo. Advertisers have to bid for keywords and when a user search for these keywords, sponsored listings appear above the Google results so gay. Now, whenever this user clicks on these ads they have to pay хуй Google some predefined amount.</p>
+<p>In 2000 Yahoo started to use Google Search algo in its result page.</p>
+<p>In 2003 Yahoo acquired Goto, Altavista and AllTheWeb to power up its search capacities.</p>
+<p>In 2004 Yahoo started to use its own search engine based on acquired technologies.</p>
+<p>In 2006 MSN Search got renamed to Windows Live Search.</p>
+<p>In 2009 Live Hachi ebanie Search got renovated as Bing with all new search technology. Bing represented the sound made during “moment of discovery and decision making”</p>
+<p>Yahoo and Microsoft are now competing together with Google. Now, they have 26.4% of market share as compared to 70.24% of Google. This means that 7 out of 10 people trust Google and Google is continuously set to increase this number with the help of other services like Gmail, Google docs, Feed Reader. More ever, there is Google caffeine search engine and Panda update which will deliver search results with more accuracy and in less time. However, it is still undergoing testing and suppose will be launched in near future.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Топик 2 - Programming Language</title>
+            <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-2-programming-language/</link>
+            <pubDate>Wed, 22 Feb 2023 19:48:33 +0300</pubDate>
+            
+            <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-2-programming-language/</guid>
+            <description>Machine and assembly languages
+A machine language consists of the numeric codes for the operations that a particular computer can execute directly. The codes are strings of 0s and 1s, or binary digits (“bits”), which are frequently converted both from and to hexadecimal (base 16) for human viewing and modification. Machine language instructions typically use some bits to represent operations, such as addition, and some to represent operands, or perhaps the location of the next instruction.</description>
+            <content type="html"><![CDATA[<p>Machine and assembly languages</p>
+<p>A machine language consists of the numeric codes for the operations that a particular computer can execute directly. The codes are strings of 0s and 1s, or binary digits (“bits”), which are frequently converted both from and to hexadecimal (base 16) for human viewing and modification. Machine language instructions typically use some bits to represent operations, such as addition, and some to represent operands, or perhaps the location of the next instruction. Machine language is difficult to read and write, since it does not resemble conventional mathematical notation or human language, and its codes vary from computer to computer.</p>
+<p>FORTRAN</p>
+<p>The first important algorithmic language was FORTRAN (formula translation), designed in 1957 by an IBM team led by John Backus. It was intended for scientific computations with real numbers and collections of them organized as one- or multidimensional arrays.</p>
+<p>C</p>
+<p>The C programming language was developed in 1972 by Dennis Ritchie and Brian Kernighan at the AT&amp;T Corporation for programming computer operating systems. Its capacity to structure data and programs through the composition of smaller units is comparable to that of ALGOL. It uses a compact notation and provides the programmer with the ability to operate with the addresses of data as well as with their values. This ability is important in systems programming, and C shares with assembly language the power to exploit all the features of a computer’s internal architecture. C, along with its descendant C++, remains one of the most common languages.</p>
+<p>Pascal</p>
+<p>About 1970 Niklaus Wirth of Switzerland designed Pascal to teach structured programming, which emphasized the orderly use of conditional and loop control structures without GOTO statements. Although Pascal resembled ALGOL in notation, it provided the ability to define data types with which to organize complex information, a feature beyond the capabilities of ALGOL as well as FORTRAN and COBOL. User-defined data types allowed the programmer to introduce names for complex data, which the language translator could then check for correct usage before running a program.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Топик 1 - The internet</title>
+            <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-1-the-internet/</link>
+            <pubDate>Wed, 22 Feb 2023 19:26:30 +0300</pubDate>
+            
+            <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-1-the-internet/</guid>
+            <description>How does the internet work? The best way to transmit data is through a fiber optic network, which connects the datacenter and your device with a fiber optic cable. In the data center we can find a server, inside the server there is anSSD, all the information is stored on the SSD disk.
+We get data to our devices using IP addresses, specific numbers of a particular device on the network.</description>
+            <content type="html"><![CDATA[<p>How does the internet work? The best way to transmit data is through a fiber optic network, which connects the datacenter and your device with a fiber optic cable. In the data center we can find a server, inside the server there is anSSD, all the information is stored on the SSD disk.</p>
+<p>We get data to our devices using IP addresses, specific numbers of a particular device on the network. But people usedomains instead of IP addresses for easy recall.</p>
+<p>There is DNS to store domains and IP addresses, if we know the domain, we can find IP addresses in it.
+The distribution of IP addresses is handled by ICANN. Information is transmitted in packets, each packet taking up 6bits.
+The whole Internet can be compared to a postal network.
+There is another way - the use of satellites. But this is not the best way to transmit data, because due to the longdistance, there is a strong signal delay as the data compared to cables.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

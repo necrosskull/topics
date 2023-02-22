@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics</title>
+    <link>localhost/</link>
+    <description>Recent content on Topics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 22 Feb 2023 19:54:15 +0300</lastBuildDate><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Топик 8 - the Future of IT</title>
+      <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-8-the-future-of-it/</link>
+      <pubDate>Wed, 22 Feb 2023 19:54:15 +0300</pubDate>
+      
+      <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-8-the-future-of-it/</guid>
+      <description>Future of Information Technology In the upcoming years, the primary focus of IT will shift to providing strategic business value by delivering innovative products and services. However, traditionally siloed and process-driven IT departments are not well suited for the speed and adaptability needed to take advantage of emerging digital business opportunities.
+This means that IT and business strategies must be aligned to boost the responsiveness and agility that will be required to compete in the future.</description>
+    </item>
+    
+    <item>
+      <title>Топик 7 - Professions in IT</title>
+      <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-7-professions-in-it/</link>
+      <pubDate>Wed, 22 Feb 2023 19:54:01 +0300</pubDate>
+      
+      <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-7-professions-in-it/</guid>
+      <description>With the rapid development of technology has grown the need for a huge number of specialists in IT, specialists are divided into:
+Developers, who design, plan, develop programs, Web sites and games, and test them
+Systems administrators who install and maintain networks and databases
+Analysts who study network requirements and recommend the most appropriate type of network. System analysts decide which IT system will meet the requirements of a particular institution.</description>
+    </item>
+    
+    <item>
+      <title>Топик 6 - How to Protect a Computer From Crimes and Disasters</title>
+      <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-6-how-to-protect-a-computer-from-crimes-and-disasters/</link>
+      <pubDate>Wed, 22 Feb 2023 19:53:45 +0300</pubDate>
+      
+      <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-6-how-to-protect-a-computer-from-crimes-and-disasters/</guid>
+      <description>How to protect your computer from crimes and disasters.
+Main things to protect your computer Control Access to Hardware and Software: Lock physical locations and equipment. Install a physical security system. Monitor access 24 hours a day.
+Implement Network Controls Install firewalls to protect networks from external and internal attacks. Password-protect programs and data with passwords which cannot easily be cracked.
+Protect against Natural Disasters Install uninterruptible power supplies and surge protectors</description>
+    </item>
+    
+    <item>
+      <title>Топик 5 - Computer Viruses and Crimes</title>
+      <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-5-computer-viruses-and-crimes/</link>
+      <pubDate>Wed, 22 Feb 2023 19:53:13 +0300</pubDate>
+      
+      <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-5-computer-viruses-and-crimes/</guid>
+      <description>There are many benefits from an open system like the Internet, but one of the risks is that we are often exposed to hackers, who break into computer systems just for fun, to steal information, or to spread viruses .
+Security on the Web Security is crucial when you send confidential information online. Private networks can be attacked by intruders who attempt to obtain information such as Social Security numbers, bank асcounts or research and business reports.</description>
+    </item>
+    
+    <item>
+      <title>Топик 4 - Web Design</title>
+      <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-4-web-design/</link>
+      <pubDate>Wed, 22 Feb 2023 19:52:59 +0300</pubDate>
+      
+      <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-4-web-design/</guid>
+      <description>Web design itself refers to the process of creating a web page’s appearance and to the choice of a right color scheme, page layout, fonts and more. Every single web page in a website has different content, but all the pages are using a similar graphic design. Often sites will use website templates, which contain all the basic elements of web design - the website&amp;rsquo;s CSS style, buttons, backgrounds, borders and various graphic elements like hover images, bullets and header banners.</description>
+    </item>
+    
+    <item>
+      <title>Топик 3 - Search Engines</title>
+      <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-3-search-engines/</link>
+      <pubDate>Wed, 22 Feb 2023 19:51:19 +0300</pubDate>
+      
+      <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-3-search-engines/</guid>
+      <description>The History of Search Engines Search Engines have come a long way since their inception. It all started with Archie, the world’s first search engine made in late 1989 and after 30 years, it is Google ruling the world. Between these periods, approximately 30 search engines came but none could be as successful and popular as Google. Search Engine Journal shares this interesting timeline picture displaying the history on search engines.</description>
+    </item>
+    
+    <item>
+      <title>Топик 2 - Programming Language</title>
+      <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-2-programming-language/</link>
+      <pubDate>Wed, 22 Feb 2023 19:48:33 +0300</pubDate>
+      
+      <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-2-programming-language/</guid>
+      <description>Machine and assembly languages
+A machine language consists of the numeric codes for the operations that a particular computer can execute directly. The codes are strings of 0s and 1s, or binary digits (“bits”), which are frequently converted both from and to hexadecimal (base 16) for human viewing and modification. Machine language instructions typically use some bits to represent operations, such as addition, and some to represent operands, or perhaps the location of the next instruction.</description>
+    </item>
+    
+    <item>
+      <title>Топик 1 - The internet</title>
+      <link>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-1-the-internet/</link>
+      <pubDate>Wed, 22 Feb 2023 19:26:30 +0300</pubDate>
+      
+      <guid>localhost/posts/%D1%82%D0%BE%D0%BF%D0%B8%D0%BA-1-the-internet/</guid>
+      <description>How does the internet work? The best way to transmit data is through a fiber optic network, which connects the datacenter and your device with a fiber optic cable. In the data center we can find a server, inside the server there is anSSD, all the information is stored on the SSD disk.
+We get data to our devices using IP addresses, specific numbers of a particular device on the network.</description>
+    </item>
+    
+  </channel>
+</rss>
