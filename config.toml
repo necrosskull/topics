@@ -1,4 +1,4 @@
-baseurl      = "https://necrosskull.github.io/topics" 
+baseurl      = "localhost/topics"
 title        = "Topics"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -39,7 +39,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "все топики за 4 семестр"
-      logoHomeLink = "/"
+      logoHomeLink = "/topics"
     # or
     #
     # path = "/img/your-example-logo.svg"
