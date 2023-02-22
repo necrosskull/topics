@@ -1,5 +1,5 @@
-baseurl      = "localhost"
-title        = "My Blog"
+baseurl      = "https://necrosskull.github.io/topics" 
+title        = "Topics"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -21,7 +21,7 @@ paginate     = 10
   enableSharingButtons = false
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "Все топики за 4 семестр"
   keywords = "homepage, blog"
   images = [""]
 
